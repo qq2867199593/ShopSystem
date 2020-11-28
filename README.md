@@ -1,9 +1,9 @@
 # ShopSystem
 
 ## 环境依赖
-.net framework 4.5
-sql server
-Visual Studio 2019
++ .net framework 4.5
++ sql server
++ Visual Studio 2019
 
 ## 布置步骤
 
