@@ -16,7 +16,10 @@ namespace ShopSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new loginForm());
+
+            loginForm loginForm = new loginForm();
+            Application.Run(loginForm);
+            
         }
     }
 }
